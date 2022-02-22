@@ -1,0 +1,14 @@
+{
+  "name": "1-promise-timeout",
+  "version": "1.0.0",
+  "description": "How to add a timeout to a promise",
+  "scripts": {
+    "bluebird": "node bluebird.js",
+    "vanilla": "node vanilla.js"
+  },
+  "author": "Benjamin Vadant <benjaminvadant@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
